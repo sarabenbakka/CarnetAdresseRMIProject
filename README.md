@@ -45,3 +45,7 @@ java -cp src CarnetAdresseClient
 - Text editor or IDE  
 ```
 ![Image](https://github.com/sarabenbakka/CarnetAdresseRMIProject/blob/555b7a9529b4e849b6cd4f3cd19e231d000af1f5/Screenshot%202025-02-01%20214128.png)
+
+![Screenshot 2025-02-01 214128](https://github.com/user-attachments/assets/ab7a61de-49b2-4d08-89c0-5fb2caee56fc)
+
+
