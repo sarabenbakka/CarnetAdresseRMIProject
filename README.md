@@ -46,7 +46,4 @@ java -cp src CarnetAdresseClient
 - RMI registry service  
 - Text editor or IDE  
 ```
-![image](https://github.com/user-attachments/assets/0baee4d5-0103-4d24-9359-28e55e4cc670)
 
-
-This keeps it simple and to the point while still giving all necessary details. 🚀
