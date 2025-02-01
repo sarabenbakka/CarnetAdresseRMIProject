@@ -1,5 +1,3 @@
-Here’s a simple README file for your project following the same structure:  
-
 ```markdown
 # Carnet d'Adresses RMI  
 A Java application with a GUI for managing contacts using Remote Method Invocation (RMI). Users can add, search, and display contacts remotely.  
@@ -46,4 +44,4 @@ java -cp src CarnetAdresseClient
 - RMI registry service  
 - Text editor or IDE  
 ```
-
+![Image](https://github.com/sarabenbakka/CarnetAdresseRMIProject/blob/555b7a9529b4e849b6cd4f3cd19e231d000af1f5/Screenshot%202025-02-01%20214128.png)
