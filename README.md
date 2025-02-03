@@ -10,7 +10,7 @@ Carnet d'Adresses is a simple contact management application built using Java RM
 
 ## Screenshots
 
-![Carnet d'Adresses GUI](Screenshot 2025-02-01 214128.png)
+![Image](Screenshot 2025-02-01 214128.png)
 
 
 ## Getting Started
