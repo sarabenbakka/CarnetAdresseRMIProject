@@ -12,6 +12,7 @@ Carnet d'Adresses is a simple contact management application built using Java RM
 
 ![Carnet d'Adresses GUI](Screenshot 2025-02-01 214128.png)
 
+
 ## Getting Started
 
 1. Ensure you have Java JDK 11 or above installed.
@@ -33,4 +34,5 @@ Carnet d'Adresses is a simple contact management application built using Java RM
 - Enter a contact's name and phone number, then click "Ajouter Contact" to add a new contact.
 - Enter a contact's name in the "Nom" field, then click "Rechercher Contact" to search for the contact.
 - Click "Afficher Tous" to display a list of all contacts.
+
 
