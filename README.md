@@ -1,49 +1,36 @@
-```markdown
-# Carnet d'Adresses RMI  
-A Java application with a GUI for managing contacts using Remote Method Invocation (RMI). Users can add, search, and display contacts remotely.  
+# Carnet d'Adresses (Contact Manager)
 
-## Setup  
-Create project folders and files:  
-```
-carnet-adresse-rmi/
-├── src/
-│   ├── ICarnetAdresse.java
-│   ├── CarnetAdresseImpl.java
-│   ├── ServeurRMI.java
-│   ├── ClientRMI.java
-│   ├── CarnetAdresseGUI.java
-└── README.md
-```
+Carnet d'Adresses is a simple contact management application built using Java RMI (Remote Method Invocation) and Swing for the graphical user interface.
 
-## Compilation & Running  
-Compile all Java files:  
-```bash
-javac src/*.java
-```
-Start the RMI registry:  
-```bash
-rmiregistry &
-```
-Run the server:  
-```bash
-java -cp src CarnetAdresseServer
-```
-Run the client:  
-```bash
-java -cp src CarnetAdresseClient
-```
+## Features
 
-## Features  
-- Add a new contact ("Ajouter")  
-- Search for a contact by name ("Rechercher")  
-- Display all stored contacts ("Afficher Tous")  
-- Remote communication using Java RMI  
+- Add contacts with name and phone number
+- Search for contacts by name
+- Display a list of all contacts
 
-## Requirements  
-- Java JDK 8 or higher  
-- RMI registry service  
-- Text editor or IDE  
-```
+## Screenshots
 
+![Carnet d'Adresses GUI](Screenshot 2025-02-01 214128.png)
 
-![Screenshot 2025-02-01 214128](https://github.com/user-attachments/assets/35ff3789-d5e3-40d1-b16b-5ead267b893c)
+## Getting Started
+
+1. Ensure you have Java JDK 11 or above installed.
+2. Compile the Java files:
+   ```
+   javac *.java
+   ```
+3. Start the RMI server:
+   ```
+   java ServeurRMI
+   ```
+4. Run the client GUI:
+   ```
+   java CarnetAdresseGUI
+   ```
+
+## Usage
+
+- Enter a contact's name and phone number, then click "Ajouter Contact" to add a new contact.
+- Enter a contact's name in the "Nom" field, then click "Rechercher Contact" to search for the contact.
+- Click "Afficher Tous" to display a list of all contacts.
+
