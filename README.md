@@ -44,6 +44,6 @@ java -cp src CarnetAdresseClient
 - RMI registry service  
 - Text editor or IDE  
 ```
-![Capture d'écran](https://github.com/utilisateur/projet/blob/main/Screenshot 2025-02-01 214128.png)
 
 
+![Screenshot 2025-02-01 214128](https://github.com/user-attachments/assets/35ff3789-d5e3-40d1-b16b-5ead267b893c)
